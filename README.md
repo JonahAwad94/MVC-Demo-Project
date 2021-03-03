@@ -1,8 +1,8 @@
 # MVC-Demo-Project
 
-Practice Project Based off of Mosh Hamedeni's "The Complete ASP.NET MVC 5 Course."
+Fullstack CRUD web application based off Mosh Hamedeni's "The Complete ASP.NET MVC 5 Course."
 This project serves as a reference for future projects that will require similar features.
-- See About page below for list of features.
+- See the "About" page image below for a comprehensive list of features.
 
 <img src="/Pictures/Home.png">
 
